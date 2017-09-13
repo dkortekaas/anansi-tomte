@@ -1,0 +1,3100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Anansi & Tomte\n"
+"POT-Creation-Date: 2017-03-07 21:35+0100\n"
+"PO-Revision-Date: 2017-03-07 21:37+0100\n"
+"Last-Translator: \n"
+"Language-Team: Weblogiq <info@weblogiq.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: archive.php:63 archive.php:69 category.php:63 category.php:69
+#: includes/mgk_widget.php:152 index.php:82 search.php:69 search.php:75
+#: single.php:59 single.php:65 tag.php:63 tag.php:69
+msgid "By"
+msgstr ""
+
+#: archive.php:197 category.php:197 index.php:117 search.php:203 single.php:187
+#: tag.php:197
+msgid "Pages:&nbsp;"
+msgstr "Pagina's:&nbsp;"
+
+#: archive.php:197 category.php:197 index.php:117 search.php:203 single.php:187
+#: tag.php:197
+msgid "Next &raquo;"
+msgstr "Volgende &raquo;"
+
+#: archive.php:200 category.php:200 index.php:119 search.php:206 tag.php:200
+msgid "Read More"
+msgstr "Lees verder"
+
+#: archive.php:226 category.php:226 index.php:139 search.php:232 tag.php:226
+msgid "Sorry, What you are looking isn't here."
+msgstr ""
+
+#: author-bio.php:2
+msgid "Published by"
+msgstr "Gepubliceerd door"
+
+#: author-bio.php:21
+#, php-format
+msgid "View all posts by %s"
+msgstr "Bekijk alle berichten van %s"
+
+#: comments.php:5
+msgid "Please do not load this page directly. Thanks!pvc"
+msgstr "Laad deze pagina niet direct a.u.b. Bedankt!"
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Dit bericht is beveiligd met een wachtwoord. Voer het wachtwoord om de "
+"reacties te bekijken."
+
+#: comments.php:16
+#, php-format
+msgctxt "comments title"
+msgid "Comment (1)"
+msgid_plural "Comments (%1$s)"
+msgstr[0] "Reactie (1)"
+msgstr[1] "Reacties (%1$s)"
+
+#: comments.php:44
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: content-link.php:18 content.php:18
+#, php-format
+msgid "Continue reading %s"
+msgstr "Lees %s verder"
+
+#: content-link.php:23 content-page.php:12 content.php:23 image.php:50
+#: image.php:65 page.php:45
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: content-link.php:27 content-page.php:16 content.php:27 functions.php:174
+#: functions.php:300 image.php:69 woocommerce/global/breadcrumb.php:216
+msgid "Page"
+msgstr "Pagina"
+
+#: content-link.php:43 content-page.php:23 content.php:43 functions.php:359
+#: image.php:78
+msgid "Edit"
+msgstr "Bewerken"
+
+#: core/mgk_framework.php:162
+msgid "Add to Shoppingcart"
+msgstr ""
+
+#: core/mgk_framework.php:302 core/mgk_framework.php:304
+msgid "My Account"
+msgstr "Mijn account"
+
+#: core/mgk_framework.php:310 woo_function.php:347
+msgid "My Cart"
+msgstr "Winkelmandje"
+
+#: core/mgk_framework.php:315 woocommerce/emails/email-order-details.php:34
+#: woocommerce/pdf/Efd/invoice.php:82 woocommerce/pdf/Efd/packing-slip.php:70
+msgid "Product"
+msgstr "Product"
+
+#: core/mgk_framework.php:317
+msgid "Products"
+msgstr ""
+
+#: core/mgk_framework.php:349 core/mgk_framework.php:352 woo_function.php:371
+#: woo_function.php:372
+msgid "Edit item"
+msgstr "Bewerk product"
+
+#: core/mgk_framework.php:354 woo_function.php:374
+msgid "Remove This Item"
+msgstr "Verwijder dit product"
+
+#: core/mgk_framework.php:373 core/mgk_framework.php:374 woo_function.php:386
+#: woo_function.php:387
+msgid "Checkout"
+msgstr "Afrekenen"
+
+#: core/mgk_framework.php:379 woo_function.php:395
+msgid "Sorry, nothing in cart."
+msgstr "Winkelmandje is leeg"
+
+#: core/mgk_framework.php:405 includes/options - Copy.php:15 Copy.php:16
+#: includes/options.php:335 includes/reduxConfig.php:1010
+msgid "Social Media"
+msgstr "Social media"
+
+#: core/mgk_framework.php:467
+msgid "Payment and shipping"
+msgstr "Betalen en verzenden"
+
+#: core/mgk_framework.php:555 core/mgk_framework.php:556
+msgid "Read more"
+msgstr "Lees verder"
+
+#: core/mgk_framework.php:561 core/mgk_framework.php:562
+msgid "Out of stock"
+msgstr "Niet op voorraad"
+
+#: core/resize.php:43
+msgid "No image URL has been entered."
+msgstr "Er is geen URL voor een afbeelding ingevoerd."
+
+#: core/resize.php:82
+msgid "Image is BMP. Please use either JPG or PNG."
+msgstr ""
+
+#: core/social_share.php:11
+msgid "Product Banner"
+msgstr ""
+
+#: core/social_share.php:24
+msgid "Share on Facebook"
+msgstr ""
+
+#: core/social_share.php:29
+msgid "Share on Twitter"
+msgstr ""
+
+#: core/social_share.php:34
+msgid "Share on Google+"
+msgstr ""
+
+#: core/social_share.php:39
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: core/social_share.php:44
+msgid "Pin on Pinterest"
+msgstr ""
+
+#: footer.php:22
+msgid "Latest blogs"
+msgstr "Laatste blogs"
+
+#: footer.php:123
+msgid "View Wishlist"
+msgstr ""
+
+#: functions.php:133 functions.php:191
+msgid "Home"
+msgstr "Home"
+
+#: functions.php:143
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Dagelijkse archieven: %s"
+
+#: functions.php:145
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Maandelijkse archieven: %s"
+
+#: functions.php:145
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: functions.php:147
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Jaarlijkse archieven: %s"
+
+#: functions.php:147
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: functions.php:149
+#, php-format
+msgid "Archives: %s"
+msgstr "Archieven: %s"
+
+#: functions.php:153 functions.php:258 woocommerce/global/breadcrumb.php:156
+msgid "Error 404"
+msgstr "Fout 404"
+
+#: functions.php:161 functions.php:284 woocommerce/global/breadcrumb.php:100
+#: woocommerce/global/breadcrumb.php:202
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: functions.php:163 functions.php:289 woocommerce/global/breadcrumb.php:206
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: functions.php:166 functions.php:292 woocommerce/global/breadcrumb.php:211
+msgid "Author:"
+msgstr "Auteur:"
+
+#: functions.php:360
+msgid "Reply"
+msgstr "Reageer"
+
+#: functions.php:365 includes/custom-comments.php:32
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie is in afwachting van moderatie."
+
+#: functions.php:369 includes/custom-comments.php:28
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s om %2$s"
+
+#: functions.php:401 skins/default/functions.php:116
+#: skins/version2/functions.php:154 skins/version2/functions.php:176
+msgid "Search entire store here..."
+msgstr ""
+
+#: functions.php:402 skins/default/functions.php:120
+#: skins/version2/functions.php:156 skins/version2/functions.php:178
+msgid "Search"
+msgstr "Zoeken"
+
+#: functions.php:419 skins/default/functions.php:1250
+#: skins/version2/functions.php:1381
+msgid "Latest Blog"
+msgstr "Laatste blog"
+
+#: functions.php:442 skins/default/functions.php:1280
+#: skins/version2/functions.php:1411
+msgid "posted by"
+msgstr "geplaatst door"
+
+#: functions.php:451 skins/default/functions.php:1290
+#: skins/version2/functions.php:1421
+msgid "READ MORE"
+msgstr "LEES VERDER"
+
+#: functions.php:458 skins/default/functions.php:1300
+#: skins/version2/functions.php:1431
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: image.php:15
+msgid "Previous Image"
+msgstr "Vorige afbeelding"
+
+#: image.php:17
+msgid "Next Image"
+msgstr "Volgende afbeelding"
+
+#: image.php:56
+msgid "Next page"
+msgstr "Volgende  pagina"
+
+#: image.php:57
+msgid "Previous page"
+msgstr "Vorige pagina"
+
+#: includes/activation/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/activation/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/activation/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/activation/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/activation/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/activation/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/activation/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/activation/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/activation/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/activation/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/activation/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/activation/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/activation/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:399
+#: includes/activation/class-tgm-plugin-activation.php:3021
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:400
+#: includes/activation/class-tgm-plugin-activation.php:2824
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:820
+#: includes/activation/class-tgm-plugin-activation.php:3430
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:927
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:927
+#: includes/activation/class-tgm-plugin-activation.php:930
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:930
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:1108
+#: includes/activation/class-tgm-plugin-activation.php:2820
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:1873
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2159
+msgid "Required"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2162
+msgid "Recommended"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2178
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2181
+msgid "External Source"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2184
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2201
+msgid "Not Installed"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2205
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2207
+msgid "Active"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2213
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2216
+msgid "Requires Update"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2219
+msgid "Update recommended"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2227
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2272
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2275
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2278
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2281
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2363
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2371
+msgid "Installed version:"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2379
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2391
+msgid "Available version:"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2414
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2428
+msgid "Plugin"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2429
+#: includes/mgk_widget.php:17
+msgid "Source"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2430
+msgid "Type"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2434
+msgid "Version"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2435
+#: woocommerce/myaccount/my-orders.php:27
+msgid "Status"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2483
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2487
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2492
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2562
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2595
+msgid "Install"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2601
+msgid "Update"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2604
+msgid "Activate"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2635
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2637
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2673
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2675
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2780
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:2806
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:3020
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:3354
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:3356
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:3357
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:3361
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:3362
+#: includes/activation/class-tgm-plugin-activation.php:3368
+msgid "Show Details"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:3362
+#: includes/activation/class-tgm-plugin-activation.php:3368
+msgid "Hide Details"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:3363
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:3367
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:3368
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:3369
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/activation/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/custom-comments.php:28
+msgid "(Edit)"
+msgstr ""
+
+#: includes/custom-posttype.php:18
+msgid "Categories"
+msgstr ""
+
+#: includes/custom-posttype.php:19
+msgid "Category"
+msgstr ""
+
+#: includes/custom-posttype.php:27
+msgctxt "Post Type General Name"
+msgid "Service"
+msgstr ""
+
+#: includes/custom-posttype.php:28
+msgctxt "Post Type Singular Name"
+msgid "Service"
+msgstr ""
+
+#: includes/custom-posttype.php:29
+msgid "Services"
+msgstr "Diensten"
+
+#: includes/custom-posttype.php:30
+msgid "All Services"
+msgstr "Alle diensten"
+
+#: includes/custom-posttype.php:31
+msgid "View Service"
+msgstr "Bekijk dienst"
+
+#: includes/custom-posttype.php:32
+msgid "Add New Service"
+msgstr "Nieuwe dienst toevoegen"
+
+#: includes/custom-posttype.php:33
+msgid "Add New"
+msgstr "Toevoegen"
+
+#: includes/custom-posttype.php:34
+msgid "Edit Service"
+msgstr "Bewerk dienst"
+
+#: includes/custom-posttype.php:35
+msgid "Update Service"
+msgstr "Dienst aanpassen"
+
+#: includes/custom-posttype.php:36
+msgid "Search Service"
+msgstr "Dienst zoeken"
+
+#: includes/entry-meta.php:12
+#, php-format
+msgid "Posted on %s at %s."
+msgstr "Geplaatst op %s om %s."
+
+#: includes/entry-meta.php:13
+msgid "Written by"
+msgstr "Geschreven door"
+
+#: includes/layout.php:22 includes/layout.php:93 includes/layout.php:165
+#: includes/layout.php:241 includes/layout.php:310
+msgid "Logout"
+msgstr "Uitloggen"
+
+#: includes/layout.php:37 includes/layout.php:108 includes/layout.php:186
+#: includes/layout.php:256 includes/layout.php:325
+#: woocommerce/myaccount/form-login.php:28
+#: woocommerce/myaccount/form-login.php:50
+msgid "Login"
+msgstr "Inloggen"
+
+#: includes/layout.php:39 includes/layout.php:110 includes/layout.php:184
+#: includes/layout.php:258 includes/layout.php:327
+#: woocommerce/myaccount/form-login.php:67
+#: woocommerce/myaccount/form-login.php:104
+msgid "Register"
+msgstr "Registreren"
+
+#: includes/mgk_menu.php:139
+msgid "Move up"
+msgstr ""
+
+#: includes/mgk_menu.php:152
+msgid "Move down"
+msgstr ""
+
+#: includes/mgk_menu.php:154 includes/mgk_menu.php:159
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/mgk_menu.php:168
+msgid "URL"
+msgstr ""
+
+#: includes/mgk_menu.php:180
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/mgk_menu.php:197
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/mgk_menu.php:205
+msgid "Font Awesome Icon Class"
+msgstr ""
+
+#: includes/mgk_menu.php:212
+msgid "Input font awesome icon or icon class. You can see"
+msgstr ""
+
+#: includes/mgk_menu.php:212
+msgid "Font Awesome Icons in here"
+msgstr ""
+
+#: includes/mgk_menu.php:223
+msgid "Don't link"
+msgstr ""
+
+#: includes/mgk_menu.php:234
+msgid "Don't show a link"
+msgstr ""
+
+#: includes/mgk_menu.php:245
+msgid "Don't show a link on mobile panel"
+msgstr ""
+
+#: includes/mgk_menu.php:252
+msgid "Menu Type"
+msgstr ""
+
+#: includes/mgk_menu.php:259
+msgid "Narrow"
+msgstr ""
+
+#: includes/mgk_menu.php:260
+msgid "Wide"
+msgstr ""
+
+#: includes/mgk_menu.php:266
+msgid "Popup Position"
+msgstr ""
+
+#: includes/mgk_menu.php:273
+msgid "Left"
+msgstr ""
+
+#: includes/mgk_menu.php:274
+msgid "Right"
+msgstr ""
+
+#: includes/mgk_menu.php:275
+msgid "Justify (only for wide)"
+msgstr ""
+
+#: includes/mgk_menu.php:276
+msgid "Center (only for wide)"
+msgstr ""
+
+#: includes/mgk_menu.php:283
+msgid "Popup Columns (only for wide)"
+msgstr ""
+
+#: includes/mgk_menu.php:290 includes/mgk_menu.php:343
+#: includes/mgk_menu.php:367 includes/mgk_menu.php:385
+msgid "Select"
+msgstr ""
+
+#: includes/mgk_menu.php:291
+msgid "2 Columns"
+msgstr ""
+
+#: includes/mgk_menu.php:292
+msgid "3 Columns"
+msgstr ""
+
+#: includes/mgk_menu.php:293
+msgid "4 Columns"
+msgstr ""
+
+#: includes/mgk_menu.php:294
+msgid "5 Columns"
+msgstr ""
+
+#: includes/mgk_menu.php:295
+msgid "6 Columns"
+msgstr ""
+
+#: includes/mgk_menu.php:306
+msgid "Columns (only for wide)"
+msgstr ""
+
+#: includes/mgk_menu.php:313
+msgid "will occupy x columns of parent popup columns"
+msgstr ""
+
+#: includes/mgk_menu.php:322
+msgid "Background Image (only for wide)"
+msgstr ""
+
+#: includes/mgk_menu.php:330
+msgid "Upload Image"
+msgstr ""
+
+#: includes/mgk_menu.php:331
+msgid "Remove Image"
+msgstr ""
+
+#: includes/mgk_menu.php:336
+msgid "Background Position (only for wide)"
+msgstr ""
+
+#: includes/mgk_menu.php:344
+msgid "Left Top"
+msgstr ""
+
+#: includes/mgk_menu.php:345 includes/mgk_menu.php:346
+msgid "Left Center"
+msgstr ""
+
+#: includes/mgk_menu.php:347
+msgid "Left Bottom"
+msgstr ""
+
+#: includes/mgk_menu.php:348
+msgid "Center Top"
+msgstr ""
+
+#: includes/mgk_menu.php:349
+msgid "Center Center"
+msgstr ""
+
+#: includes/mgk_menu.php:350
+msgid "Center Bottom"
+msgstr ""
+
+#: includes/mgk_menu.php:351
+msgid "Right Top"
+msgstr ""
+
+#: includes/mgk_menu.php:352
+msgid "Right Center"
+msgstr ""
+
+#: includes/mgk_menu.php:353
+msgid "Right Bottom"
+msgstr ""
+
+#: includes/mgk_menu.php:360
+msgid "Background Repeat (only for wide)"
+msgstr ""
+
+#: includes/mgk_menu.php:368
+msgid "No Repeat"
+msgstr ""
+
+#: includes/mgk_menu.php:369
+msgid "Repeat All"
+msgstr ""
+
+#: includes/mgk_menu.php:370
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: includes/mgk_menu.php:371
+msgid "Repeat Vertically"
+msgstr ""
+
+#: includes/mgk_menu.php:372 includes/mgk_menu.php:386
+msgid "Inherit"
+msgstr ""
+
+#: includes/mgk_menu.php:378
+msgid "Background Size (only for wide)"
+msgstr ""
+
+#: includes/mgk_menu.php:387
+msgid "Cover"
+msgstr ""
+
+#: includes/mgk_menu.php:388
+msgid "Contain"
+msgstr ""
+
+#: includes/mgk_menu.php:394
+msgid "Custom Styles (only for wide)"
+msgstr ""
+
+#: includes/mgk_menu.php:407
+msgid "Tip Label"
+msgstr ""
+
+#: includes/mgk_menu.php:418
+msgid "Tip Text Color"
+msgstr ""
+
+#: includes/mgk_menu.php:429
+msgid "Tip BG Color"
+msgstr ""
+
+#: includes/mgk_menu.php:443
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/mgk_menu.php:454
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/mgk_menu.php:465
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/mgk_menu.php:476 woocommerce/pdf/Efd/invoice.php:91
+#: woocommerce/pdf/Efd/packing-slip.php:78
+msgid "Description"
+msgstr ""
+
+#: includes/mgk_menu.php:483
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: includes/mgk_menu.php:502 woo_function.php:374
+msgid "Remove"
+msgstr "Verwijder"
+
+#: includes/mgk_menu.php:503 woocommerce/myaccount/my-orders.php:92
+#: woocommerce/myaccount/orders.php:77
+msgid "Cancel"
+msgstr ""
+
+#: includes/mgk_widget.php:5
+msgid "Posts widget"
+msgstr ""
+
+#: includes/mgk_widget.php:7
+msgid "Pvc: Posts"
+msgstr ""
+
+#: includes/mgk_widget.php:12
+msgid "Title"
+msgstr "Titel"
+
+#: includes/mgk_widget.php:19
+msgid "Random"
+msgstr "Willekeurig"
+
+#: includes/mgk_widget.php:20
+msgid "Popular"
+msgstr "Populair"
+
+#: includes/mgk_widget.php:21
+msgid "Recent"
+msgstr "Recent"
+
+#: includes/mgk_widget.php:22
+msgid "Oldest"
+msgstr "Oudste"
+
+#: includes/mgk_widget.php:28
+msgid "Number of posts to show"
+msgstr "Aantal te tonen berichten:"
+
+#: includes/navigation.php:17
+msgid "Top menu"
+msgstr ""
+
+#: includes/navigation.php:18
+msgid "Main menu"
+msgstr ""
+
+#: includes/options - Copy.php:29
+msgid "Social media profiles"
+msgstr "Social media profielen"
+
+#: includes/options - Copy.php:145
+msgid "Enter your Social media profile URLs below."
+msgstr ""
+
+#: includes/options.php:218
+msgid "Homepage"
+msgstr ""
+
+#: includes/options.php:221
+msgid "Blog Items"
+msgstr ""
+
+#: includes/options.php:222
+msgid "Show Blog items on the Homepage."
+msgstr ""
+
+#: includes/options.php:225 includes/options.php:393 includes/options.php:400
+#: includes/options.php:407 includes/options.php:414 includes/options.php:421
+#: includes/options.php:428 includes/options.php:435 includes/options.php:443
+#: includes/options.php:450 includes/options.php:457 includes/options.php:464
+msgid "On"
+msgstr ""
+
+#: includes/options.php:225 includes/options.php:393 includes/options.php:400
+#: includes/options.php:407 includes/options.php:414 includes/options.php:421
+#: includes/options.php:428 includes/options.php:435 includes/options.php:443
+#: includes/options.php:450 includes/options.php:457 includes/options.php:464
+msgid "Off"
+msgstr ""
+
+#: includes/options.php:228 includes/options.php:231
+msgid "Features"
+msgstr ""
+
+#: includes/options.php:232
+msgid "Show Features."
+msgstr ""
+
+#: includes/options.php:235
+msgid "Top and Bottom"
+msgstr ""
+
+#: includes/options.php:235
+msgid "Top only"
+msgstr ""
+
+#: includes/options.php:235
+msgid "Bottom only"
+msgstr ""
+
+#: includes/options.php:235
+msgid "None"
+msgstr ""
+
+#: includes/options.php:238
+msgid "Feature Title 1"
+msgstr ""
+
+#: includes/options.php:239
+msgid "Title of Feature 1"
+msgstr ""
+
+#: includes/options.php:244
+msgid "Feature Text 1"
+msgstr ""
+
+#: includes/options.php:245
+msgid "Text of Feature 1"
+msgstr ""
+
+#: includes/options.php:250
+msgid "Feature Icon 1"
+msgstr ""
+
+#: includes/options.php:251
+msgid "Icon of Feature 1"
+msgstr ""
+
+#: includes/options.php:256
+msgid "Feature Link 1"
+msgstr ""
+
+#: includes/options.php:257
+msgid "Link of Feature 1"
+msgstr ""
+
+#: includes/options.php:262
+msgid "Feature Title 2"
+msgstr ""
+
+#: includes/options.php:263
+msgid "Title of Feature 2"
+msgstr ""
+
+#: includes/options.php:268
+msgid "Feature Text 2"
+msgstr ""
+
+#: includes/options.php:269
+msgid "Text of Feature 2"
+msgstr ""
+
+#: includes/options.php:274
+msgid "Feature Icon 2"
+msgstr ""
+
+#: includes/options.php:275
+msgid "Icon of Feature 2"
+msgstr ""
+
+#: includes/options.php:280
+msgid "Feature Link 2"
+msgstr ""
+
+#: includes/options.php:281
+msgid "Link of Feature 2"
+msgstr ""
+
+#: includes/options.php:286
+msgid "Feature Title 3"
+msgstr ""
+
+#: includes/options.php:287
+msgid "Title of Feature 3"
+msgstr ""
+
+#: includes/options.php:292
+msgid "Feature Text 3"
+msgstr ""
+
+#: includes/options.php:293
+msgid "Text of Feature 3"
+msgstr ""
+
+#: includes/options.php:298
+msgid "Feature Icon 3"
+msgstr ""
+
+#: includes/options.php:299
+msgid "Icon of Feature 3"
+msgstr ""
+
+#: includes/options.php:304
+msgid "Feature Link 3"
+msgstr ""
+
+#: includes/options.php:305
+msgid "Link of Feature 3"
+msgstr ""
+
+#: includes/options.php:311
+msgid "Feature Title 4"
+msgstr ""
+
+#: includes/options.php:312
+msgid "Title of Feature 4"
+msgstr ""
+
+#: includes/options.php:317
+msgid "Feature Text 4"
+msgstr ""
+
+#: includes/options.php:318
+msgid "Text of Feature 4"
+msgstr ""
+
+#: includes/options.php:323
+msgid "Feature Icon 4"
+msgstr ""
+
+#: includes/options.php:324
+msgid "Icon of Feature 4"
+msgstr ""
+
+#: includes/options.php:329
+msgid "Feature Link 4"
+msgstr ""
+
+#: includes/options.php:330
+msgid "Link of Feature 4"
+msgstr ""
+
+#: includes/options.php:338
+msgid "Facebook"
+msgstr ""
+
+#: includes/options.php:339
+msgid "Enter your Facebook profile URL."
+msgstr ""
+
+#: includes/options.php:344
+msgid "Twitter"
+msgstr ""
+
+#: includes/options.php:345
+msgid "Enter your Twitter profile URL."
+msgstr ""
+
+#: includes/options.php:350
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/options.php:351
+msgid "Enter your LinkedIn profile URL."
+msgstr ""
+
+#: includes/options.php:356
+msgid "Google+"
+msgstr ""
+
+#: includes/options.php:357
+msgid "Enter your Google+ profile URL."
+msgstr ""
+
+#: includes/options.php:362
+msgid "Pinterest"
+msgstr ""
+
+#: includes/options.php:363
+msgid "Enter your Pinterest profile URL."
+msgstr ""
+
+#: includes/options.php:368
+msgid "Instagram"
+msgstr ""
+
+#: includes/options.php:369
+msgid "Enter your Instagram profile URL."
+msgstr ""
+
+#: includes/options.php:374
+msgid "Youtube"
+msgstr ""
+
+#: includes/options.php:375
+msgid "Enter your Youtube profile URL."
+msgstr ""
+
+#: includes/options.php:380
+msgid "Woocommerce"
+msgstr ""
+
+#: includes/options.php:383
+msgid "Cutting Costs"
+msgstr ""
+
+#: includes/options.php:384
+msgid "Enter the Cutting Costs."
+msgstr ""
+
+#: includes/options.php:389 woo_function.php:46
+msgid "Related Products"
+msgstr ""
+
+#: includes/options.php:390
+msgid "Show Related products below a product."
+msgstr ""
+
+#: includes/options.php:396
+msgid "Creditcard"
+msgstr ""
+
+#: includes/options.php:397
+msgid "Display a Creditcard logo"
+msgstr ""
+
+#: includes/options.php:403
+msgid "iDeal"
+msgstr ""
+
+#: includes/options.php:404
+msgid "Display an iDeal logo"
+msgstr ""
+
+#: includes/options.php:410
+msgid "PayPal"
+msgstr ""
+
+#: includes/options.php:411
+msgid "Display an PayPal logo"
+msgstr ""
+
+#: includes/options.php:417
+msgid "Sofort Banking"
+msgstr ""
+
+#: includes/options.php:418
+msgid "Display an Sofort Banking logo"
+msgstr ""
+
+#: includes/options.php:424
+msgid "Mister Cash"
+msgstr ""
+
+#: includes/options.php:425
+msgid "Display an Mister Cash logo"
+msgstr ""
+
+#: includes/options.php:431
+msgid "Bank transfer"
+msgstr ""
+
+#: includes/options.php:432
+msgid "Display an Bank transfer logo"
+msgstr ""
+
+#: includes/options.php:439
+msgid "DHL"
+msgstr ""
+
+#: includes/options.php:440
+msgid "Display a DHL logo"
+msgstr ""
+
+#: includes/options.php:446
+msgid "UPS"
+msgstr ""
+
+#: includes/options.php:447
+msgid "Display an UPS logo"
+msgstr ""
+
+#: includes/options.php:453
+msgid "DPD"
+msgstr ""
+
+#: includes/options.php:454
+msgid "Display a DPD logo"
+msgstr ""
+
+#: includes/options.php:460
+msgid "PostNL"
+msgstr ""
+
+#: includes/options.php:461
+msgid "Display a PostNL logo"
+msgstr ""
+
+#: includes/reduxConfig.php:94
+msgid "Section via hook"
+msgstr ""
+
+#: includes/reduxConfig.php:95
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: includes/reduxConfig.php:179
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/reduxConfig.php:188 includes/reduxConfig.php:192
+msgid "Current theme preview"
+msgstr ""
+
+#: includes/reduxConfig.php:199
+#, php-format
+msgid "By %s"
+msgstr "Door %s"
+
+#: includes/reduxConfig.php:200
+#, php-format
+msgid "Version %s"
+msgstr "Versie %s"
+
+#: includes/reduxConfig.php:201
+msgid "Tags"
+msgstr ""
+
+#: includes/reduxConfig.php:206
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: includes/reduxConfig.php:206
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: includes/reduxConfig.php:232
+msgid "Home Settings"
+msgstr ""
+
+#: includes/reduxConfig.php:233
+msgid "Home page settings "
+msgstr ""
+
+#: includes/reduxConfig.php:242
+msgid "Theme Variation"
+msgstr ""
+
+#: includes/reduxConfig.php:243
+msgid "Select the variation you want to apply on your store."
+msgstr ""
+
+#: includes/reduxConfig.php:246 includes/reduxConfig.php:247
+msgid "Default"
+msgstr ""
+
+#: includes/reduxConfig.php:251
+msgid "Version2"
+msgstr ""
+
+#: includes/reduxConfig.php:252
+msgid "Version 2"
+msgstr ""
+
+#: includes/reduxConfig.php:263
+msgid "Enable Home Page welcome message"
+msgstr ""
+
+#: includes/reduxConfig.php:264
+msgid "You can enable/disable Home page welcome message"
+msgstr ""
+
+#: includes/reduxConfig.php:270
+msgid "Enter your welcome message here"
+msgstr ""
+
+#: includes/reduxConfig.php:271
+msgid "Enter your welcome message here."
+msgstr ""
+
+#: includes/reduxConfig.php:278
+msgid "Enable Home Page Gallery"
+msgstr ""
+
+#: includes/reduxConfig.php:279
+msgid "You can enable/disable Home page Gallery"
+msgstr ""
+
+#: includes/reduxConfig.php:285
+msgid "Home Slider Uploads"
+msgstr ""
+
+#: includes/reduxConfig.php:287 includes/reduxConfig.php:602
+msgid "Unlimited slide uploads with drag and drop sortings."
+msgstr ""
+
+#: includes/reduxConfig.php:289 includes/reduxConfig.php:585
+#: includes/reduxConfig.php:604
+msgid "This is a title"
+msgstr ""
+
+#: includes/reduxConfig.php:290 includes/reduxConfig.php:586
+#: includes/reduxConfig.php:605
+msgid "Description Here"
+msgstr ""
+
+#: includes/reduxConfig.php:291 includes/reduxConfig.php:587
+#: includes/reduxConfig.php:606
+msgid "Give us a link!"
+msgstr ""
+
+#: includes/reduxConfig.php:301
+msgid "Show Hot Deal/Daily Deal Product"
+msgstr ""
+
+#: includes/reduxConfig.php:302
+msgid "You can show Hot Deal product on home page."
+msgstr ""
+
+#: includes/reduxConfig.php:309 includes/reduxConfig.php:311
+msgid "Home Daily Deal Title"
+msgstr ""
+
+#: includes/reduxConfig.php:318
+msgid "Home Daily Deal Text"
+msgstr ""
+
+#: includes/reduxConfig.php:320
+msgid "home page daily deal text "
+msgstr ""
+
+#: includes/reduxConfig.php:327
+msgid "Home Daily Deal Image"
+msgstr ""
+
+#: includes/reduxConfig.php:329
+msgid ""
+"Upload daily deal image appear to the left of best seller on  home page "
+msgstr ""
+
+#: includes/reduxConfig.php:336
+msgid "Home Daily Deal Url"
+msgstr ""
+
+#: includes/reduxConfig.php:337
+msgid "Home daily deal Url."
+msgstr ""
+
+#: includes/reduxConfig.php:345
+msgid "Enable Home Page Offer Banners"
+msgstr ""
+
+#: includes/reduxConfig.php:346
+msgid "You can enable/disable Home page offer Banners"
+msgstr ""
+
+#: includes/reduxConfig.php:352
+msgid "Home offer Banner 1"
+msgstr ""
+
+#: includes/reduxConfig.php:354 includes/reduxConfig.php:369
+#: includes/reduxConfig.php:384
+msgid "Upload offer banner to appear on  home page"
+msgstr ""
+
+#: includes/reduxConfig.php:360
+msgid "Home offer Banner-1 URL"
+msgstr ""
+
+#: includes/reduxConfig.php:361 includes/reduxConfig.php:376
+#: includes/reduxConfig.php:391
+msgid "URL for the offer banner."
+msgstr ""
+
+#: includes/reduxConfig.php:367
+msgid "Home offer Banner 2"
+msgstr ""
+
+#: includes/reduxConfig.php:375
+msgid "Home offer Banner-2 URL"
+msgstr ""
+
+#: includes/reduxConfig.php:382
+msgid "Home offer Banner 3"
+msgstr ""
+
+#: includes/reduxConfig.php:390
+msgid "Home offer Banner-3 URL"
+msgstr ""
+
+#: includes/reduxConfig.php:399
+msgid "Show New Products"
+msgstr ""
+
+#: includes/reduxConfig.php:400
+msgid "You can show Show New Products on home page."
+msgstr ""
+
+#: includes/reduxConfig.php:408
+msgid "New Product Category"
+msgstr ""
+
+#: includes/reduxConfig.php:410
+msgid "Please choose New Product Category to show  its product in home page."
+msgstr ""
+
+#: includes/reduxConfig.php:417
+msgid "Show Best Seller Products"
+msgstr ""
+
+#: includes/reduxConfig.php:418
+msgid "You can show best seller products on home page."
+msgstr ""
+
+#: includes/reduxConfig.php:425
+msgid "Home bestseller products text"
+msgstr ""
+
+#: includes/reduxConfig.php:427
+msgid "home page bestseller_products-text "
+msgstr ""
+
+#: includes/reduxConfig.php:436
+msgid "Home Best Seller image"
+msgstr ""
+
+#: includes/reduxConfig.php:438
+msgid ""
+"Upload bestseller image appear to the left of best seller on  home page "
+msgstr ""
+
+#: includes/reduxConfig.php:444
+msgid "Home bestseller image text"
+msgstr ""
+
+#: includes/reduxConfig.php:446
+msgid "bestseller image text "
+msgstr ""
+
+#: includes/reduxConfig.php:454
+msgid "Home Best seller   Url"
+msgstr ""
+
+#: includes/reduxConfig.php:455
+msgid "Home Best seller  Url."
+msgstr ""
+
+#: includes/reduxConfig.php:461
+msgid "Number of Bestseller Products"
+msgstr ""
+
+#: includes/reduxConfig.php:462
+msgid "Number of Bestseller products on home page."
+msgstr ""
+
+#: includes/reduxConfig.php:469
+msgid "Show Featured Products"
+msgstr ""
+
+#: includes/reduxConfig.php:470
+msgid "You can show featured products on home page."
+msgstr ""
+
+#: includes/reduxConfig.php:477
+msgid "Home Featured image"
+msgstr ""
+
+#: includes/reduxConfig.php:479
+msgid ""
+"Upload featured image appear to right of Featured product on  home page "
+msgstr ""
+
+#: includes/reduxConfig.php:485
+msgid "Featured Image Text"
+msgstr ""
+
+#: includes/reduxConfig.php:487
+msgid "featured image text "
+msgstr ""
+
+#: includes/reduxConfig.php:494
+msgid "Home Featured  Url"
+msgstr ""
+
+#: includes/reduxConfig.php:495
+msgid "Home Featured  Url."
+msgstr ""
+
+#: includes/reduxConfig.php:502
+msgid "Number of Featured Products"
+msgstr ""
+
+#: includes/reduxConfig.php:503
+msgid "Number of Featured products on home page."
+msgstr ""
+
+#: includes/reduxConfig.php:510
+msgid "Show Related Products"
+msgstr ""
+
+#: includes/reduxConfig.php:511
+msgid "You can show Related products on home page."
+msgstr ""
+
+#: includes/reduxConfig.php:517
+msgid "Related products text"
+msgstr ""
+
+#: includes/reduxConfig.php:519
+msgid "related products-text "
+msgstr ""
+
+#: includes/reduxConfig.php:526
+msgid "Number of Related Products"
+msgstr ""
+
+#: includes/reduxConfig.php:527
+msgid "Number of Related products on home page."
+msgstr ""
+
+#: includes/reduxConfig.php:534
+msgid "Show Upsell Products"
+msgstr ""
+
+#: includes/reduxConfig.php:535
+msgid "You can show Upsell products on home page."
+msgstr ""
+
+#: includes/reduxConfig.php:541
+msgid "Upsell Products text"
+msgstr ""
+
+#: includes/reduxConfig.php:543
+msgid "upsell products text "
+msgstr ""
+
+#: includes/reduxConfig.php:550
+msgid "Number of Upsell Products"
+msgstr ""
+
+#: includes/reduxConfig.php:551
+msgid "Number of Upsell products on home page."
+msgstr ""
+
+#: includes/reduxConfig.php:558
+msgid "Show Home Blog"
+msgstr ""
+
+#: includes/reduxConfig.php:559
+msgid "You can show latest blog post on home page."
+msgstr ""
+
+#: includes/reduxConfig.php:565
+msgid "Home Blog text"
+msgstr ""
+
+#: includes/reduxConfig.php:567
+msgid "home page blog text "
+msgstr ""
+
+#: includes/reduxConfig.php:574
+msgid "Enable Testimonial "
+msgstr ""
+
+#: includes/reduxConfig.php:575
+msgid "You can enable/disable Testimonial Uploads"
+msgstr ""
+
+#: includes/reduxConfig.php:582
+msgid "Add Testimonial here"
+msgstr ""
+
+#: includes/reduxConfig.php:583
+msgid "Unlimited testimonial."
+msgstr ""
+
+#: includes/reduxConfig.php:593
+msgid "Enable Home Page Bottom Slider"
+msgstr ""
+
+#: includes/reduxConfig.php:594
+msgid "You can enable/disable Home page Bottom Slider"
+msgstr ""
+
+#: includes/reduxConfig.php:600
+msgid "Home page Bottom Slider Uploads"
+msgstr ""
+
+#: includes/reduxConfig.php:621
+msgid "General Settings"
+msgstr ""
+
+#: includes/reduxConfig.php:627
+msgid "Product display in product category page"
+msgstr ""
+
+#: includes/reduxConfig.php:628 includes/reduxConfig.php:629
+msgid "Number of item display in product category page"
+msgstr ""
+
+#: includes/reduxConfig.php:640
+msgid "Enable Product Page Social Share "
+msgstr ""
+
+#: includes/reduxConfig.php:641
+msgid "You can enable/disable Product Page Social Share"
+msgstr ""
+
+#: includes/reduxConfig.php:650
+msgid "Back To Top Button"
+msgstr ""
+
+#: includes/reduxConfig.php:651
+msgid "Toggle whether or not to enable a back to top button on your pages."
+msgstr ""
+
+#: includes/reduxConfig.php:662
+msgid "Styling Options"
+msgstr ""
+
+#: includes/reduxConfig.php:668
+msgid "Use animation effect"
+msgstr ""
+
+#: includes/reduxConfig.php:678
+msgid "Set Body Background"
+msgstr ""
+
+#: includes/reduxConfig.php:689
+msgid "Body Background"
+msgstr ""
+
+#: includes/reduxConfig.php:690
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: includes/reduxConfig.php:696
+msgid "Footer Background Color"
+msgstr ""
+
+#: includes/reduxConfig.php:697
+msgid "Pick a background color for the footer."
+msgstr ""
+
+#: includes/reduxConfig.php:706
+msgid "Header Nav Menu Background"
+msgstr ""
+
+#: includes/reduxConfig.php:715
+msgid "Header Background"
+msgstr ""
+
+#: includes/reduxConfig.php:728
+msgid "Header"
+msgstr ""
+
+#: includes/reduxConfig.php:729
+msgid "All header related options are listed here."
+msgstr ""
+
+#: includes/reduxConfig.php:735
+msgid "Show Currency HTML"
+msgstr ""
+
+#: includes/reduxConfig.php:736
+msgid "You can show Currency in the header."
+msgstr ""
+
+#: includes/reduxConfig.php:741
+msgid "Show Language HTML"
+msgstr ""
+
+#: includes/reduxConfig.php:742
+msgid "You can show Language in the header."
+msgstr ""
+
+#: includes/reduxConfig.php:747
+msgid "Use Image for Logo?"
+msgstr ""
+
+#: includes/reduxConfig.php:748
+msgid ""
+"If left unchecked, plain text will be used instead (generated from site "
+"name)."
+msgstr ""
+
+#: includes/reduxConfig.php:756
+msgid "Logo Upload"
+msgstr ""
+
+#: includes/reduxConfig.php:758
+msgid "Upload your logo here and enter the height of it below"
+msgstr ""
+
+#: includes/reduxConfig.php:764
+msgid "Logo Height"
+msgstr ""
+
+#: includes/reduxConfig.php:765 includes/reduxConfig.php:774
+msgid "Don't include \"px\" in the string. e.g. 30"
+msgstr ""
+
+#: includes/reduxConfig.php:773
+msgid "Logo Width"
+msgstr ""
+
+#: includes/reduxConfig.php:782
+msgid "Remove Header Search"
+msgstr ""
+
+#: includes/reduxConfig.php:783
+msgid "Active to remove the search functionality from your header"
+msgstr ""
+
+#: includes/reduxConfig.php:790
+msgid "Show Info Banners"
+msgstr ""
+
+#: includes/reduxConfig.php:799
+msgid "Shipping Banner Text"
+msgstr ""
+
+#: includes/reduxConfig.php:806
+msgid "Customer Support Banner Text"
+msgstr ""
+
+#: includes/reduxConfig.php:813
+msgid "Warrant/Gaurantee Banner Text"
+msgstr ""
+
+#: includes/reduxConfig.php:819
+msgid "Return service Banner Text"
+msgstr ""
+
+#: includes/reduxConfig.php:830 skins/default/header.php:55
+#: skins/version2/header.php:82
+msgid "Menu"
+msgstr ""
+
+#: includes/reduxConfig.php:831
+msgid "All Menu related options are listed here."
+msgstr ""
+
+#: includes/reduxConfig.php:837
+msgid "Show Menu Arrow"
+msgstr ""
+
+#: includes/reduxConfig.php:838
+msgid "Show arrow in menu."
+msgstr ""
+
+#: includes/reduxConfig.php:844
+msgid "Show Login/sign and logout link"
+msgstr ""
+
+#: includes/reduxConfig.php:845
+msgid "Please Select any option from above."
+msgstr ""
+
+#: includes/reduxConfig.php:860
+msgid "Footer"
+msgstr ""
+
+#: includes/reduxConfig.php:861
+msgid "All footer related options are listed here."
+msgstr ""
+
+#: includes/reduxConfig.php:867
+msgid "Enable Mailchimp Form"
+msgstr ""
+
+#: includes/reduxConfig.php:868
+msgid "You can enable/disable Mailchimp Form"
+msgstr ""
+
+#: includes/reduxConfig.php:874
+msgid "Custom Footer Color Scheme"
+msgstr ""
+
+#: includes/reduxConfig.php:882
+msgid "Footer Copyright Background Color"
+msgstr ""
+
+#: includes/reduxConfig.php:891
+msgid "Footer Copyright Font Color"
+msgstr ""
+
+#: includes/reduxConfig.php:901
+msgid "Enable footer middle"
+msgstr ""
+
+#: includes/reduxConfig.php:902
+msgid "You can enable/disable Footer Middle"
+msgstr ""
+
+#: includes/reduxConfig.php:908
+msgid "Footer Middle Text "
+msgstr ""
+
+#: includes/reduxConfig.php:910 includes/reduxConfig.php:918
+msgid ""
+"You can use the following shortcodes in your footer text: [wp-url] [site-"
+"url] [theme-url] [login-url] [logout-url] [site-title] [site-tagline] "
+"[current-year]"
+msgstr ""
+
+#: includes/reduxConfig.php:917
+msgid "Bottom Footer Text"
+msgstr ""
+
+#: includes/reduxConfig.php:919
+msgid "Powered by Magik"
+msgstr ""
+
+#: includes/reduxConfig.php:929
+msgid "Blog Page"
+msgstr ""
+
+#: includes/reduxConfig.php:934
+msgid "Blog Page Layout"
+msgstr ""
+
+#: includes/reduxConfig.php:935
+msgid ""
+"Select main blog listing and category page layout from the available blog "
+"layouts."
+msgstr ""
+
+#: includes/reduxConfig.php:957
+msgid "Author's Bio"
+msgstr ""
+
+#: includes/reduxConfig.php:958
+msgid "Show Author Bio on Blog page."
+msgstr ""
+
+#: includes/reduxConfig.php:965
+msgid "Display Post By"
+msgstr ""
+
+#: includes/reduxConfig.php:967
+msgid "Display Psot by Author on Listing Page"
+msgstr ""
+
+#: includes/reduxConfig.php:972
+msgid "Display Tags"
+msgstr ""
+
+#: includes/reduxConfig.php:974
+msgid "Display tags at the bottom of posts."
+msgstr ""
+
+#: includes/reduxConfig.php:979
+msgid "Display Full Date"
+msgstr ""
+
+#: includes/reduxConfig.php:981
+msgid "This will add date of post meta on all blog pages."
+msgstr ""
+
+#: includes/reduxConfig.php:987
+msgid "Display Comments Count"
+msgstr ""
+
+#: includes/reduxConfig.php:988
+msgid "Display Comments Count on Blog Listing."
+msgstr ""
+
+#: includes/reduxConfig.php:993
+msgid "Display Category"
+msgstr ""
+
+#: includes/reduxConfig.php:995
+msgid "Display Comments Category on Blog Listing."
+msgstr ""
+
+#: includes/reduxConfig.php:1000
+msgid "Display View Counts"
+msgstr ""
+
+#: includes/reduxConfig.php:1002
+msgid "Display View Counts on Blog Listing."
+msgstr ""
+
+#: includes/reduxConfig.php:1015
+msgid "Enable Social Link In Footer"
+msgstr ""
+
+#: includes/reduxConfig.php:1021
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/reduxConfig.php:1022
+msgid "Please enter in your Facebook URL."
+msgstr ""
+
+#: includes/reduxConfig.php:1027
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/reduxConfig.php:1028
+msgid "Please enter in your Twitter URL."
+msgstr ""
+
+#: includes/reduxConfig.php:1033
+msgid "Google+ URL"
+msgstr ""
+
+#: includes/reduxConfig.php:1034
+msgid "Please enter in your Google Plus URL."
+msgstr ""
+
+#: includes/reduxConfig.php:1040
+msgid "Pinterest URL"
+msgstr ""
+
+#: includes/reduxConfig.php:1041
+msgid "Please enter in your Pinterest URL."
+msgstr ""
+
+#: includes/reduxConfig.php:1046
+msgid "Youtube URL"
+msgstr ""
+
+#: includes/reduxConfig.php:1047
+msgid "Please enter in your Youtube URL."
+msgstr ""
+
+#: includes/reduxConfig.php:1052
+msgid "LinkedIn URL"
+msgstr ""
+
+#: includes/reduxConfig.php:1053
+msgid "Please enter in your LinkedIn URL."
+msgstr ""
+
+#: includes/reduxConfig.php:1058
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/reduxConfig.php:1059
+msgid "Please enter in your Instagram URL."
+msgstr ""
+
+#: includes/reduxConfig.php:1064
+msgid "RSS URL"
+msgstr ""
+
+#: includes/reduxConfig.php:1065
+msgid "Please enter in your RSS URL."
+msgstr ""
+
+#: includes/reduxConfig.php:1072
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: includes/reduxConfig.php:1073
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: includes/reduxConfig.php:1074
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: includes/reduxConfig.php:1078
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: includes/reduxConfig.php:1085
+msgid "Import / Export"
+msgstr ""
+
+#: includes/reduxConfig.php:1086
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: includes/reduxConfig.php:1133 includes/reduxConfig.php:1134
+msgid "Pvc Options"
+msgstr ""
+
+#: includes/reduxConfig.php:1235
+msgid "Documentation"
+msgstr ""
+
+#: includes/reduxConfig.php:1241
+msgid "Support"
+msgstr ""
+
+#: includes/reduxConfig.php:1247
+msgid "Extensions"
+msgstr ""
+
+#: includes/widget-areas.php:12
+msgid "Blog Sidebar"
+msgstr ""
+
+#: includes/widget-areas.php:14
+msgid "Sidebar that appears on the right of Blog and Search page."
+msgstr ""
+
+#: includes/widget-areas.php:21
+msgid "Contact Sidebar"
+msgstr ""
+
+#: includes/widget-areas.php:23
+msgid "Sidebar that appears on the right of Contact page."
+msgstr ""
+
+#: includes/widget-areas.php:30
+msgid "Shop Sidebar"
+msgstr ""
+
+#: includes/widget-areas.php:32
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: includes/widget-areas.php:39
+msgid "Content Sidebar Left"
+msgstr ""
+
+#: includes/widget-areas.php:41
+msgid "Additional sidebar that appears on the left."
+msgstr ""
+
+#: includes/widget-areas.php:48
+msgid "Content Sidebar Right"
+msgstr ""
+
+#: includes/widget-areas.php:50
+msgid "Additional sidebar that appears on the right."
+msgstr ""
+
+#: includes/widget-areas.php:58
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: includes/widget-areas.php:60 includes/widget-areas.php:69
+#: includes/widget-areas.php:78 includes/widget-areas.php:87
+#: includes/widget-areas.php:96
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: includes/widget-areas.php:67
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: includes/widget-areas.php:76
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: includes/widget-areas.php:85
+msgid "Footer Widget Area 4"
+msgstr ""
+
+#: includes/widget-areas.php:94
+msgid "Footer Widget Area 5"
+msgstr ""
+
+#: includes/widget.php:149
+msgid "Click to browse icon"
+msgstr ""
+
+#: includes/widget.php:149
+msgid "Browse..."
+msgstr ""
+
+#: includes/woocommerce.php:67 includes/woocommerce.php:85
+msgid "Subtitle"
+msgstr ""
+
+#: includes/woocommerce.php:69 includes/woocommerce.php:88
+msgid "Enter a subtitle"
+msgstr ""
+
+#: includes/woocommerce.php:123 includes/woocommerce.php:133
+msgid "Background to the product"
+msgstr ""
+
+#: includes/woocommerce.php:150 skins/default/functions.php:1081
+#: woo_function.php:468
+msgid "incl. Vat"
+msgstr ""
+
+#: page-contact.php:67
+msgid "Contactform"
+msgstr "Contactformulier"
+
+#: page-contact.php:69
+msgid "* required fields"
+msgstr ""
+
+#: search.php:50
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: single.php:257
+msgctxt "Previous post link"
+msgid "<span class=\"fa fa-arrow-left\"></span> &nbsp; Prev POST"
+msgstr ""
+
+#: single.php:263
+msgctxt "Next post link"
+msgid "Next Post &nbsp; <span class=\"fa fa-arrow-right\"></span>"
+msgstr ""
+
+#: skins/default/functions.php:10 skins/default/functions.php:11
+#: skins/default/functions.php:14 skins/version2/functions.php:13
+#: skins/version2/functions.php:14 skins/version2/functions.php:17
+msgid "English"
+msgstr ""
+
+#: skins/default/functions.php:15 skins/version2/functions.php:18
+msgid "French"
+msgstr ""
+
+#: skins/default/functions.php:16 skins/version2/functions.php:19
+msgid "German"
+msgstr ""
+
+#: skins/default/functions.php:24 skins/version2/functions.php:29
+msgid "USD"
+msgstr ""
+
+#: skins/default/functions.php:29 skins/version2/functions.php:33
+msgid "$ - Dollar"
+msgstr ""
+
+#: skins/default/functions.php:34 skins/version2/functions.php:38
+msgid "&pound; - Pound"
+msgstr ""
+
+#: skins/default/functions.php:39 skins/version2/functions.php:43
+msgid "&euro; - Euro"
+msgstr ""
+
+#: skins/default/functions.php:56 skins/version2/functions.php:67
+msgid "Logged in as"
+msgstr ""
+
+#: skins/default/functions.php:337 skins/version2/functions.php:352
+#: woocommerce/myaccount/orders.php:108
+msgid "Previous"
+msgstr "Vorige"
+
+#: skins/default/functions.php:338 skins/version2/functions.php:353
+#: woocommerce/myaccount/orders.php:112
+msgid "Next"
+msgstr "Volgende"
+
+#: skins/default/functions.php:434 skins/default/functions.php:443
+#: skins/default/functions.php:452 skins/version2/functions.php:450
+#: skins/version2/functions.php:458 skins/version2/functions.php:467
+msgid "link"
+msgstr ""
+
+#: skins/default/functions.php:436 skins/version2/functions.php:452
+msgid "offer banner1"
+msgstr ""
+
+#: skins/default/functions.php:445 skins/version2/functions.php:460
+msgid "offer banner2"
+msgstr ""
+
+#: skins/default/functions.php:454 skins/version2/functions.php:469
+msgid "offer banner3"
+msgstr ""
+
+#: skins/default/functions.php:521 skins/version2/functions.php:569
+msgid "Featured Product"
+msgstr ""
+
+#: skins/default/functions.php:545 skins/default/functions.php:632
+#: skins/default/functions.php:745 skins/default/functions.php:830
+#: skins/version2/functions.php:589 skins/version2/functions.php:675
+#: skins/version2/functions.php:785 skins/version2/functions.php:857
+#: woo_function.php:68 woo_function.php:116 woo_function.php:163
+msgid "No products found"
+msgstr ""
+
+#: skins/default/functions.php:584 skins/version2/functions.php:628
+msgid "bestseller_image"
+msgstr ""
+
+#: skins/default/functions.php:592 skins/default/functions.php:1148
+#: skins/version2/functions.php:557 skins/version2/functions.php:635
+msgid "Shop now"
+msgstr ""
+
+#: skins/default/functions.php:600 skins/version2/functions.php:643
+msgid "Best Sellers"
+msgstr ""
+
+#: skins/default/functions.php:672 skins/version2/functions.php:714
+msgid "New products"
+msgstr ""
+
+#: skins/default/functions.php:789 skins/default/functions.php:791
+msgid "daily-deal"
+msgstr ""
+
+#: skins/default/functions.php:866 skins/default/functions.php:948
+#: skins/default/functions.php:1039 skins/version2/functions.php:894
+#: skins/version2/functions.php:995 skins/version2/functions.php:1093
+#: woocommerce/content-product.php:72
+#: woocommerce/single-product/_product-image.php:30
+msgid "Sale"
+msgstr ""
+
+#: skins/default/functions.php:874 skins/default/functions.php:956
+#: skins/default/functions.php:1046 skins/version2/functions.php:903
+#: skins/version2/functions.php:1003 skins/version2/functions.php:1101
+#: skins/version2/functions.php:1216
+msgid "Quick View"
+msgstr ""
+
+#: skins/default/functions.php:883 skins/default/functions.php:966
+#: skins/default/functions.php:1053 skins/version2/functions.php:914
+#: skins/version2/functions.php:1013 skins/version2/functions.php:1111
+#: skins/version2/functions.php:1228 skins/version2/header.php:104
+msgid "Wishlist"
+msgstr ""
+
+#: skins/default/functions.php:891 skins/default/functions.php:975
+#: skins/default/functions.php:1059 skins/version2/functions.php:924
+#: skins/version2/functions.php:1023 skins/version2/functions.php:1120
+#: skins/version2/functions.php:1239
+msgid "Compare"
+msgstr ""
+
+#: skins/default/functions.php:1079 woo_function.php:466
+msgid "excl. Vat"
+msgstr ""
+
+#: skins/version2/functions.php:139 skins/version2/header.php:60
+msgid "All Categories"
+msgstr ""
+
+#: skins/version2/functions.php:549
+msgid "featured_image"
+msgstr ""
+
+#: skins/version2/functions.php:1206
+msgid "Hot Deal"
+msgstr ""
+
+#: woo_function.php:93
+msgid "Upsell Product"
+msgstr ""
+
+#: woo_function.php:140
+msgid "Cross sell Product"
+msgstr ""
+
+#: woo_function.php:182
+msgid "List"
+msgstr ""
+
+#: woo_function.php:189 woo_function.php:191
+msgid "View All"
+msgstr ""
+
+#: woo_function.php:202
+msgid "Add to Compare"
+msgstr ""
+
+#: woo_function.php:226 woocommerce/add-to-wishlist-button.php:17
+#: woocommerce/content-product.php:87
+#: woocommerce/single-product/add-to-cart/simple.php:61
+msgid "Add to WishList"
+msgstr ""
+
+#: woo_function.php:235
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woo_function.php:257
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: woo_function.php:390
+msgid "View Cart"
+msgstr ""
+
+#: woo_function.php:424 woocommerce/single-product/price.php:29
+msgid "Delivery"
+msgstr ""
+
+#: woo_function.php:425
+msgid "Enter the delivery time in days."
+msgstr ""
+
+#: woo_function.php:439
+msgid ""
+"The selected measurement is not available for this product, Please contact "
+"the store for assistance."
+msgstr ""
+
+#: woo_function.php:478
+msgctxt "min_price"
+msgid "From"
+msgstr ""
+
+#: woo_function.php:493
+msgid "Free"
+msgstr "Gratis"
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Cart Totals"
+msgstr "Totaal bedrag"
+
+#: woocommerce/cart/cart-totals.php:32 woocommerce/cart/cart-totals.php:33
+#: woocommerce/cart/cart.php:39
+msgid "Subtotal"
+msgstr "Subtotaal"
+
+#: woocommerce/cart/cart-totals.php:34 woocommerce/cart/cart-totals.php:41
+#: woocommerce/cart/cart-totals.php:67 woocommerce/cart/cart-totals.php:76
+#: woocommerce/cart/cart-totals.php:85 woocommerce/cart/cart.php:125
+#: woocommerce/checkout/review-order.php:62
+msgid "incl. BTW"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:46
+msgid "Subtotaal incl. loyalty points"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:47
+msgid "Vubtotaal incl. loyalty points"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:65 woocommerce/cart/cart-totals.php:66
+msgid "Shipping"
+msgstr "Verzendmethoden"
+
+#: woocommerce/cart/cart-totals.php:83 woocommerce/cart/cart-totals.php:84
+#: woocommerce/myaccount/my-orders.php:28
+msgid "Total"
+msgstr "Totaal"
+
+#: woocommerce/cart/cart-totals.php:102 woocommerce/cart/cart-totals.php:106
+#: woocommerce/checkout/form-checkout.php:69
+msgid "Earned loyalty points"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:104
+msgid "Log in and earn these loyalty points"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:104
+msgid ""
+"With this order you can earn loyalty points. If you wish to make use of "
+"them, you must first log in via 'my account'."
+msgstr ""
+
+#: woocommerce/cart/cart.php:31
+msgid "Product Name"
+msgstr "Productnaam"
+
+#: woocommerce/cart/cart.php:34 woocommerce/emails/email-order-details.php:36
+#: woocommerce/pdf/Efd/invoice.php:84
+#: woocommerce/single-product/add-to-cart/variation.php:23
+msgid "Price"
+msgstr "Prijs"
+
+#: woocommerce/cart/cart.php:37
+msgid "Spaarpunten"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38
+msgid "Qty"
+msgstr "Aantal"
+
+#: woocommerce/cart/cart.php:48
+msgid "Continue Shopping"
+msgstr "Verder winkelen"
+
+#: woocommerce/cart/cart.php:50 woocommerce/cart/cart.php:51
+msgid "Update Cart"
+msgstr "﻿Winkelmandje bijwerken"
+
+#: woocommerce/cart/cart.php:88
+msgid "Available on backorder"
+msgstr "Beschikbaar via nabestelling"
+
+#: woocommerce/cart/cart.php:99
+msgid "or"
+msgstr ""
+
+#: woocommerce/cart/cart.php:105 woocommerce/content-product.php:105
+#: woocommerce/loop/price.php:26 woocommerce/single-product/price.php:26
+msgid "loyalty points"
+msgstr ""
+
+#: woocommerce/cart/cart.php:129
+msgid "Remove this item"
+msgstr "Verwijder dit artikel"
+
+#: woocommerce/cart/cart.php:151
+msgid "In order to earn or redeem loyalty points you should log in first"
+msgstr ""
+
+#: woocommerce/cart/cart.php:152
+msgid ""
+"With our loyalty system you can build loyalty with the order of certain "
+"products and return again in a subsequent order. These loyalty points are "
+"worth money!"
+msgstr ""
+
+#: woocommerce/cart/cart.php:180
+msgid "Loyalty points balance (before this order)"
+msgstr ""
+
+#: woocommerce/cart/cart.php:184
+msgid "Redeemed loyalty points in this order"
+msgstr ""
+
+#: woocommerce/cart/cart.php:188
+msgid "Remainder balance loyalty points"
+msgstr ""
+
+#: woocommerce/cart/cart.php:192
+msgid "Earning loyaltypoints with this order"
+msgstr ""
+
+#: woocommerce/cart/cart.php:196
+msgid "Total balance loyalty points"
+msgstr ""
+
+#: woocommerce/cart/cart.php:212
+msgid "Continue shopping"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:41
+msgid "you may be interested"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr "Facturering en verzending"
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing Details"
+msgstr "Factuurgegevens"
+
+#: woocommerce/checkout/form-billing.php:46
+msgid "Create an account?"
+msgstr "Een account aanmaken?"
+
+#: woocommerce/checkout/form-billing.php:57
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"Maak een account aan door de gegevens hieronder in te vullen. Als je een "
+"terugkerende klant bent, log dan in aan de bovenzijde van de pagina."
+
+#: woocommerce/checkout/form-checkout.php:22
+msgid "You must be logged in to checkout."
+msgstr "Je moet ingelogd zijn om af te rekenen."
+
+#: woocommerce/checkout/form-checkout.php:58
+msgid "My order"
+msgstr "Mijn bestelling"
+
+#: woocommerce/checkout/review-order.php:26
+msgid "In Shoppingcart"
+msgstr "In winkelmandje"
+
+#: woocommerce/checkout/review-order.php:59
+#, php-format
+msgid "%d product"
+msgid_plural "%d products"
+msgstr[0] "%d product"
+msgstr[1] "%d producten"
+
+#: woocommerce/checkout/review-order.php:109
+msgid "TOTAL"
+msgstr "TOTAAL"
+
+#: woocommerce/content-product.php:76
+msgid "More info"
+msgstr ""
+
+#: woocommerce/content-product.php:130
+msgid "incl VAT"
+msgstr ""
+
+#: woocommerce/content-product.php:140
+msgid "Or"
+msgstr ""
+
+#: woocommerce/content-single-product.php:99
+#, php-format
+msgid "in stock (%d pieces)"
+msgstr ""
+
+#: woocommerce/content-single-product.php:101
+msgid "out of stock"
+msgstr ""
+
+#: woocommerce/content-single-product.php:103
+msgid "Free shipping from € 75,-"
+msgstr "Gratis verzending vanaf € 75,-"
+
+#: woocommerce/content-single-product.php:105
+#, php-format
+msgid "Earn %d loyalty point"
+msgstr ""
+
+#: woocommerce/content-single-product.php:107
+#, php-format
+msgid "Earn %d loyalty points"
+msgstr ""
+
+#: woocommerce/emails/email-order-details.php:26
+#: woocommerce/emails/email-order-details.php:28
+#, php-format
+msgid "Order #%s"
+msgstr "Bestelling #%s"
+
+#: woocommerce/emails/email-order-details.php:35
+#: woocommerce/pdf/Efd/invoice.php:83 woocommerce/pdf/Efd/packing-slip.php:71
+msgid "Quantity"
+msgstr "Aantal"
+
+#: woocommerce/emails/email-order-items.php:34
+msgid "Product Image"
+msgstr "Productafbeelding"
+
+#: woocommerce/global/breadcrumb.php:72
+msgid "Products tagged &ldquo;"
+msgstr "Producten getagged &ldquo;"
+
+#: woocommerce/global/quantity-input.php:28
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Aantal"
+
+#: woocommerce/loop/add-to-cart.php:31
+msgid "Add to cart"
+msgstr "Toevoegen aan winkelmandje"
+
+#: woocommerce/loop/no-products-found.php:17
+msgid "No products were found matching your selection."
+msgstr "Geen producten gevonden die aan je zoekcriteria voldoen."
+
+#: woocommerce/loop/orderby.php:16
+msgid "Sort By"
+msgstr "Sorteren op"
+
+#: woocommerce/loop/result-count.php:30
+msgid "Showing the single result"
+msgstr "Enige resultaat"
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+msgid "Showing all %d results"
+msgstr "Alle %d resultaten"
+
+#: woocommerce/loop/result-count.php:34
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:35
+msgid "Username or email address"
+msgstr "Gebruikersnaam of e-mailadres"
+
+#: woocommerce/myaccount/form-login.php:39
+#: woocommerce/myaccount/form-login.php:90
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: woocommerce/myaccount/form-login.php:48
+msgid "Remember me"
+msgstr "Onthoud mijn gegevens"
+
+#: woocommerce/myaccount/form-login.php:54
+msgid "Forget password?"
+msgstr "Wachtwoord vergeten?"
+
+#: woocommerce/myaccount/form-login.php:76
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: woocommerce/myaccount/form-login.php:83
+msgid "Email address"
+msgstr "E-mailadres"
+
+#: woocommerce/myaccount/form-login.php:97
+msgid "Anti-spam"
+msgstr "Anti-spam"
+
+#: woocommerce/myaccount/my-orders.php:25
+msgid "Order"
+msgstr "Bestelling"
+
+#: woocommerce/myaccount/my-orders.php:26
+msgid "Date"
+msgstr "Datum"
+
+#: woocommerce/myaccount/my-orders.php:42
+msgid "Recent Orders"
+msgstr "Recente bestellingen"
+
+#: woocommerce/myaccount/my-orders.php:67 woocommerce/myaccount/orders.php:52
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:77 woocommerce/myaccount/orders.php:62
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s voor %s artikel"
+msgstr[1] "%s voor %s artikelen"
+
+#: woocommerce/myaccount/my-orders.php:84 woocommerce/myaccount/orders.php:69
+msgid "Pay"
+msgstr "Betalen"
+
+#: woocommerce/myaccount/my-orders.php:88 woocommerce/myaccount/orders.php:73
+msgid "View"
+msgstr "Bekijk"
+
+#: woocommerce/myaccount/orders.php:120
+msgid "Go Shop"
+msgstr "Ga Winkelen"
+
+#: woocommerce/myaccount/orders.php:122
+msgid "No order has been made yet."
+msgstr "Nog geen bestelling geplaatst."
+
+#: woocommerce/myaccount/view-order.php:20
+#, php-format
+msgid ""
+"Order #<mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+"Bestelling #<mark class=\"order-number\">%s</mark> werd geplaatst op <mark "
+"class=\"order-date\">%s</mark> en heeft momenteel de status “<mark class="
+"\"order-status\">%s</mark>”."
+
+#: woocommerce/myaccount/view-order.php:24
+msgid "Order Updates"
+msgstr "Bestellingupdates"
+
+#: woocommerce/myaccount/view-order.php:30
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/pdf/Efd/invoice.php:9 woocommerce/pdf/Efd/invoice.php:21
+msgid "Invoice"
+msgstr "Klantfactuur"
+
+#: woocommerce/pdf/Efd/invoice.php:29 woocommerce/pdf/Efd/packing-slip.php:40
+msgid "Billing Address:"
+msgstr "Factuuradres:"
+
+#: woocommerce/pdf/Efd/invoice.php:40
+msgid "Ship To:"
+msgstr "Bestemming:"
+
+#: woocommerce/pdf/Efd/invoice.php:49
+msgid "Invoice Number:"
+msgstr "Factuurnummer:"
+
+#: woocommerce/pdf/Efd/invoice.php:55
+msgid "Invoice Date:"
+msgstr "Factuurdatum:"
+
+#: woocommerce/pdf/Efd/invoice.php:60 woocommerce/pdf/Efd/packing-slip.php:48
+msgid "Order Number:"
+msgstr "Bestelnummer:"
+
+#: woocommerce/pdf/Efd/invoice.php:64 woocommerce/pdf/Efd/packing-slip.php:52
+msgid "Order Date:"
+msgstr "Besteldatum:"
+
+#: woocommerce/pdf/Efd/invoice.php:68
+msgid "Payment Method:"
+msgstr "Betaalmethode:"
+
+#: woocommerce/pdf/Efd/invoice.php:96 woocommerce/pdf/Efd/packing-slip.php:83
+msgid "SKU"
+msgstr ""
+
+#: woocommerce/pdf/Efd/invoice.php:97 woocommerce/pdf/Efd/packing-slip.php:84
+#: woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/pdf/Efd/invoice.php:98 woocommerce/pdf/Efd/packing-slip.php:85
+msgid "Weight:"
+msgstr "Gewicht:"
+
+#: woocommerce/pdf/Efd/invoice.php:112 woocommerce/pdf/Efd/packing-slip.php:99
+msgid "Customer Notes"
+msgstr "Notities van de klant over deze bestelling:"
+
+#: woocommerce/pdf/Efd/packing-slip.php:9
+#: woocommerce/pdf/Efd/packing-slip.php:21
+msgid "Packing Slip"
+msgstr "Pakbon"
+
+#: woocommerce/pdf/Efd/packing-slip.php:29
+msgid "Shipping Address:"
+msgstr "Verzendadres:"
+
+#: woocommerce/pdf/Efd/packing-slip.php:56
+msgid "Shipping Method:"
+msgstr "Verzendmethode:"
+
+#: woocommerce/single-product/_product-image.php:49
+#: woocommerce/single-product/_product-image.php:53
+#: woocommerce/single-product/product-image.php:47
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:31
+msgid "This product is currently out of stock and unavailable."
+msgstr "Dit product is momenteel niet op voorraad."
+
+#: woocommerce/single-product/add-to-cart/variation.php:40
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr "Sorry, dit product is niet beschikbaar. Kies een andere combinatie."
+
+#: woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgstr "Niet beschikbaar"
+
+#: woocommerce/single-product/meta.php:33
+msgid "<span>Category:</span>"
+msgid_plural "<span>Categories:</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:34
+msgid "<span>Tag:</span>"
+msgid_plural "<span>Tags:</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/price.php:29
+msgid "days"
+msgstr "dagen"
+
+#: woocommerce/single-product/price.php:33
+msgid "InStock"
+msgstr ""
+
+#: woocommerce/single-product/price.php:33
+msgid "OutOfStock"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:38
+msgid "Weight"
+msgstr "Gewicht"
+
+#: woocommerce/single-product/product-attributes.php:45
+msgid "Dimensions"
+msgstr "Afmetingen"
+
+#: woocommerce/single-product/tabs/additional-information.php:16
+msgid "Additional Information"
+msgstr "Extra informatie"
+
+#. Theme Name of the plugin/theme
+msgid "Anansi & Tomte"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Anansi & Tomte WordPress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Weblogiq"
+msgstr ""
+
+#~ msgid "Product(s)"
+#~ msgstr "Product(en)"
+
+#~ msgid "estimated for %s"
+#~ msgstr "geschat voor %s"
+
+#~ msgid "Unit Price"
+#~ msgstr "Product prijs"
+
+#~ msgid "Clear Cart"
+#~ msgstr "Wissen"
+
+#~ msgid "Discount Codes"
+#~ msgstr "Korting"
+
+#~ msgid "Coupon code"
+#~ msgstr "Kortingscode"
+
+#~ msgid "Apply Coupon"
+#~ msgstr "Kortingscode toepassen"
+
+#~ msgid "Your order"
+#~ msgstr "Jouw bestelling"
+
+#~ msgid "VAT Number"
+#~ msgstr "BTW nummer"
+
+#~ msgid "WishList"
+#~ msgstr "Verlanglijst"
+
+#~ msgid "In Stock"
+#~ msgstr "Op voorraad"
+
+#~ msgid "Out of Stock"
+#~ msgstr "Niet op voorraad"

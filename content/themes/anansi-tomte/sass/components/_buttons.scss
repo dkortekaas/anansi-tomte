@@ -1,0 +1,43 @@
+/*=================================================
+5 - Buttons
+=================================================*/
+
+.button,
+#button {
+  color: $brown;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 12px 32px;
+  margin: 5px 0;
+  border: solid 2px $brown;
+  letter-spacing: 2px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 0px;
+  background-color: transparent;
+  text-transform: uppercase;
+  text-align: center;
+  display: inline-block;
+  -webkit-box-shadow: inset 0 0 0 0 #ebebeb;
+  -moz-box-shadow: inset 0 0 0 0 #ebebeb;
+  box-shadow: inset 0 0 0 0 #ebebeb;
+  border-radius: 2px;
+  a {
+    color: $brown;
+  }
+  &:hover {
+    color: #777;
+  }
+}
+
+/********* About us *********/
+
+.container-about {
+  background-color: $white;
+  padding: 60px 0 60px 0;
+}
+
+.container-about-fact {
+  background-color: $orange-dark;
+  padding: 43px 0 20px 0;
+}

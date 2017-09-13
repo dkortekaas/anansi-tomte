@@ -1,0 +1,44 @@
+/*=================================================
+ - counter box
+=================================================*/
+
+.counter-box {
+  text-align: center;
+  color: #fff;
+  margin-bottom: 40px;
+  i {
+    display: block;
+    margin: 0 0 10px;
+    font-size: 40px !important;
+  }
+  div {
+    &.counter-number {
+      font-size: 36px;
+      line-height: 60px;
+      color: #fff;
+      display: block;
+      font-family: "Oswald", sans-serif;
+      letter-spacing: 2px;
+    }
+  }
+  .counter-title {
+    font-size: 13px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  .counter-box-dark {
+    color: $text-color;
+    div {
+      &.counter-number {
+        color: $text-color;
+      }
+    }
+  }
+  .counter-box-light {
+    div {
+      &.counter-number {
+        color: #fff;
+      }
+    }
+  }
+}

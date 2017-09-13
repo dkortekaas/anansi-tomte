@@ -1,0 +1,60 @@
+.woocommerce {
+    div.product {
+        .woocommerce-tabs {
+            ul.service-tabs {
+                margin-bottom: 0;
+                border: 0;
+                padding: 0 0 0 0.4em;
+                &:before {
+                    border: 0;
+                }
+                 li {
+                     background-color: #bac591;
+                     border: 0;
+                     margin-right: 10px;
+                     &:after {
+                         display: none;
+                     }
+                     &:before {
+                        border: 0;
+                        box-shadow: none !important;
+                        left: 0;
+                     }
+                     &.active {
+                        background-color: #A5B370;
+                        a {
+                            color: #42210B;
+                            font-weight: 700;
+                        }
+                        &:hover {
+                            background-color: #A5B370;
+                            a {
+                                color: #42210B;
+                            }
+                        }                        
+                     }
+                     &:hover {
+                        background-color: #bac591;
+                        a {
+                            color: #a67c52;
+                        }
+                     }
+                     a {
+                         padding: 10px 22px;
+                         font-weight: 300;
+                         color: #42210B;
+                     }
+                }
+            }
+        }
+    }
+    div.service {
+        .images {
+            width: 100% !important;
+        }
+    }
+}
+
+#serviceTabContent {
+    border-top-left-radius: 0;
+}

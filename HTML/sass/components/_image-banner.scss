@@ -1,0 +1,60 @@
+/*=================================================
+34 -  Image banner
+=================================================*/
+
+.img-banner a {
+  display: block;
+  position: relative;
+  overflow: hidden;
+}
+
+.img-banner a .overlay {
+  background: #000;
+}
+
+.img-banner a:hover .overlay,
+.img-banner a:hover img {
+  opacity: 0.4;
+  filter: alpha(opacity=40);
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+}
+
+.img-banner img {
+  display: block;
+  position: relative;
+  z-index: 1;
+  line-height: 1;
+  width: 100%!important;
+  height: auto!important;
+  -webkit-transition: all 500ms ease-out;
+  -moz-transition: all 500ms ease-out;
+  -o-transition: all 500ms ease-out;
+  transition: all 500ms ease-out;
+}
+
+.img-banner .img-banner-info {
+  position: absolute;
+  left: 35px;
+  bottom: 35px;
+  top: auto;
+  right: auto;
+  z-index: 2;
+  display: block;
+  text-transform: uppercase;
+}
+
+.img-banner .img-banner-info .title-un-two:after {
+  bottom: -12px;
+  background: #fff;
+}
+
+.img-banner .img-banner-title {
+  margin-bottom: 20px;
+  color: #fff;
+  font-weight: 600;
+}
+
+.img-banner .img-banner-desc {
+  margin: 0;
+  color: #fff;
+}

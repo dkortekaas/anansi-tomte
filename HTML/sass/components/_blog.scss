@@ -1,0 +1,332 @@
+/*=================================================
+20 - Blog Posts
+=================================================*/
+
+.blog-posts {
+  padding-top: 90px;
+  margin-bottom: 50px;
+}
+
+.blog-post {
+  margin-bottom: 63px;
+}
+
+.blog-posts-g {
+  padding: 0;
+  margin: 0 -1.08025% 0 -1.08025%;
+  &:after {
+    clear: both;
+    display: table;
+    content: " ";
+  }
+  li {
+    width: 33.33333%;
+    float: left;
+    padding-right: 1.08025%;
+    padding-left: 1.08025%;
+    list-style: none;
+    margin-bottom: 35px;
+    .post-content {
+      padding: 22px 25px 30px;
+      background: $orange-dark;
+      margin: 0 !important;
+      h5 {
+        position: relative;
+        margin-bottom: 20px;
+        font-size: 14px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        &:after {
+          position: absolute;
+          background: #ada5a4;
+          width: 50px;
+          height: 3px;
+          bottom: -12px;
+          opacity: .4;
+          left: 0;
+          font-size: 68px;
+          font-family: serif;
+          content: " ";
+        }
+      }
+      .post-info {
+        margin-bottom: 12px;
+        color: $brown;
+        font-weight: 500;
+        a {
+          color: $brown;
+          &:hover {
+            color: $green;
+          }
+        }
+        span {
+          margin: 0 10px;
+          &:first-child {
+            margin: 0 10px 0 0;
+          }
+        }
+      }
+    }
+  }
+  .post-img {
+    position: relative;
+    background: #8d8d8d;
+    overflow: hidden;
+    margin: 0 !important;
+    &:hover img {
+      opacity: .5;
+    }
+  }
+}
+
+@media only screen and (max-width: 990px) {
+  .blog-posts-g {
+    li {
+      width: 50%;
+    }
+  }
+}
+
+@media only screen and (max-width: 608px) {
+  .blog-posts-g {
+    li {
+      width: 100%;
+    }
+  }
+}
+
+.sticky {
+  .post-info {
+    h3 {
+      &.post-title {
+        &:before {
+          content: "\f006";
+          font-size: 22px;
+          font-family: FontAwesome;
+          color: $brown;
+          margin-right: 6px;
+        }
+      }
+    }
+  }
+}
+
+
+/****  Single Post ****/
+
+.single-blog-post {
+  margin-bottom: 0;
+}
+
+.single-post {
+  -ms-word-wrap: break-word;
+  word-wrap: break-word;
+  &:after {
+    clear: both;
+    content: "";
+    overflow: hidden;
+  }
+  .post-img {
+    position: relative;
+    margin-bottom: 40px;
+    background: #8d8d8d;
+    overflow: hidden;
+    &:hover {
+      .overlay {
+        opacity: 0.9;
+        filter: alpha(opacity=90);
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+        li {
+          opacity: 1;
+          margin-top: 55px;
+        }
+      }
+    }
+  }
+  .post-info {
+    .post-title {
+      text-transform: uppercase;
+      font-weight: 600;
+      font-size: 24px;
+      color: #5d5d5d;
+      letter-spacing: 2px;
+      position: relative;
+      &:after {
+        position: absolute;
+        background: #ada5a4;
+        width: 50px;
+        height: 3px;
+        bottom: -12px;
+        opacity: .4;
+        left: 0;
+        font-size: 68px;
+        font-family: serif;
+        content: " ";
+      }
+      a {
+        color: #5d5d5d;
+      }
+    }
+    .post-meta {
+      margin-top: 25px;
+      font-weight: 600;
+      -ms-word-wrap: break-word;
+      word-wrap: break-word;
+      span {
+        padding: 0 8px 0 0;
+        margin: 0 8px 0 0;
+        color: $brown;
+        &:before {
+          content: '/';
+          position: relative;
+          left: -10px;
+        }
+        &:first-child {
+          &:before {
+            content: '';
+            left: 0;
+          }
+        }
+        &:last-child {
+          border: none;
+        }
+      }
+      a {
+        color: $brown;
+      }
+    }
+    .post-content {
+      margin-top: 14px;
+      p {
+        margin-bottom: 15px;
+      }
+    }
+    .post-excerpt {
+      margin-top: 20px;
+      p {
+        margin-bottom: 4px;
+      }
+      .readmore {
+        margin-top: 25px;
+        display: block;
+        color: $brown;
+        font-weight: 600;
+        &:hover {
+          color: #000;
+        }
+      }
+    }
+  }
+}
+
+
+/**** Post Author ****/
+
+.btline-custom-title,
+.comment-form-warp h3.comment-reply-title {
+  text-transform: uppercase;
+  font-size: 17px;
+  color: #444444;
+  border-bottom: solid 1px #dddddd;
+  margin-bottom: 23px;
+  letter-spacing: 2px;
+  font-weight: 600;
+}
+
+.post-author {
+  margin-bottom: 40px;
+  &:after {
+    clear: both;
+    display: table;
+    content: "";
+  }
+  img {
+    margin: 0 31px 10px 0;
+    float: left;
+    vertical-align: middle;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+  }
+  h5 {
+    margin-bottom: 16px;
+    padding-top: 4px;
+    font-size: 15px;
+  }
+  p {
+    color: #666;
+  }
+}
+
+
+/**** Comments Box ****/
+
+.comment-wrap .comment-list,
+.comment-wrap .commentlist,
+.commentlist {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.post-comments .comment-list li,
+.commentlist li {
+  padding: 28px 0;
+  margin-bottom: 9px;
+  position: relative;
+  list-style: none;
+  border-bottom: solid 1px #ddd;
+}
+
+.post-comments .comment-list li .avatar,
+.commentlist li .avatar {
+  width: 64px;
+  height: 64px;
+  float: left;
+  margin-right: 26px;
+}
+
+.post-comments .comment-list li .avatar img {
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+}
+
+.post-comments .comment-list li .comment-text {
+  overflow: hidden;
+  color: #666;
+}
+
+.post-comments .comment-list li .comment-text .comment-head {
+  margin-bottom: 9px;
+}
+
+.post-comments .comment-list li .comment-text .name-n-time {
+  float: left;
+  display: block;
+  color: #333;
+  font-size: 14px;
+}
+
+.post-comments .comment-list ul {
+  padding: 0 0 0 55px;
+}
+
+.post-comments .comment-list ul li {
+  border: none;
+  padding-bottom: 0;
+  margin-bottom: 3px;
+}
+
+.post-comments .comment-form-warp {
+  margin-top: 42px;
+}
+
+.post-comments .comment-form-warp .btline-title {
+  margin-bottom: 37px;
+}
+
+.post-comments #button {
+  padding: 10px 35px;
+  margin-bottom: 3px;
+}

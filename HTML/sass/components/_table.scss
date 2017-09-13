@@ -1,0 +1,30 @@
+/*=================================================
+32 - Table
+=================================================*/
+
+table {
+  width: 100%;
+}
+
+th {
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-right: 5px;
+}
+
+td {
+  border-top: 1px solid #ededed;
+  padding: 6px 10px 6px 0;
+}
+
+dl {
+  margin: 0 20px;
+}
+
+dd {
+  margin: 0 0 20px;
+}
+
+dt {
+  font-weight: bold;
+}

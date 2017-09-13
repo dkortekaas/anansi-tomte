@@ -1,0 +1,82 @@
+/*=================================================
+10 - Pricing table
+=================================================*/
+
+.pricing-table {
+  margin-bottom: 20px;
+  letter-spacing: 2px;
+}
+
+.pricing-table ul {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  list-style: none;
+  font-size: 14px;
+}
+
+.pricing-table ul li {
+  border-top: solid 1px #eee;
+  border-right: solid 1px #eee;
+  border-left: solid 1px #eee;
+  padding: 15px 0;
+  text-align: center;
+}
+
+.pricing-table ul li.plan-name {
+  font-size: 18px;
+  padding: 24px 0;
+  font-weight: 600;
+}
+
+.pricing-table ul li.plan-name.pro-color {
+  color: #a67c52;
+}
+
+.pricing-table ul li.plan-price {
+  font-size: 28px;
+  padding: 33px 0;
+}
+
+.pricing-table ul li.plan-order {
+  font-size: 14px;
+  padding: 21px 0;
+  text-transform: uppercase;
+  color: #a67c52;
+  font-weight: 700;
+}
+
+.pricing-table ul li.plan-order a {
+  color: #a67c52;
+}
+
+.pricing-table ul li.plan-order a:hover {
+  color: #444;
+}
+
+.pricing-table ul li:first-child {
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  -webkit-border-top-left-radius: 3px;
+  -moz-border-top-right-radius: 3px;
+  -moz-border-top-left-radius: 3px;
+  -webkit-border-top-right-radius: 3px;
+}
+
+.pricing-table ul li:last-child {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  -webkit-border-bottom-left-radius: 3px;
+  -moz-border-bottom-right-radius: 3px;
+  -moz-border-bottom-left-radius: 3px;
+  -webkit-border-bottom-right-radius: 3px;
+  border-bottom: solid 1px #eee;
+}
+
+.pricing-table ul li:nth-child(even) {
+  background: #fff
+}
+
+.pricing-table ul li:nth-child(odd) {
+  background: #fff
+}

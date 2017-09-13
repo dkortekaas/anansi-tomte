@@ -1,0 +1,42 @@
+/*=================================================
+18 - contact-form
+=================================================*/
+
+.container-contact-details {
+  padding: 88px 0 20px 0;
+}
+
+.container-contact-form {
+  padding: 40px 0 50px 0;
+}
+
+#contact-form {
+  padding-top: 4px;
+  input[type="text"],
+  textarea {
+    max-width: 100% !important;
+    width: 100%;
+    display: block;
+    margin-bottom: 21px;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border: 1px solid #ddd;
+    height: 52px;
+    padding: 13px;
+    font-family: inherit;
+    font-size: inherit;
+    color: #787878;
+  }
+  .button {
+    padding: 10px 35px;
+  }
+  textarea {
+    margin-bottom: 22px;
+    height: 193px;
+    max-width: 100%;
+    &:focus {
+      outline: none;
+    }
+  }
+}

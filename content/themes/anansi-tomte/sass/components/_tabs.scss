@@ -1,0 +1,80 @@
+/*=================================================
+11 - Tabs
+=================================================*/
+
+.nav-tabs {
+  border-bottom: 1px solid #ddd;
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.nav-tabs:before {
+  content: " ";
+  display: table;
+}
+
+.nav-tabs:after {
+  clear: both;
+}
+
+.nav-tabs > li {
+  display: inline-block;
+  margin-bottom: -1px;
+}
+
+.nav-tabs > li > a {
+  margin-right: 2px;
+  line-height: 1.42857143;
+  border: 1px solid transparent;
+  border-radius: 4px 4px 0 0;
+  position: relative;
+  display: block;
+  padding: 10px 22px;
+  color: #666666;
+}
+
+.nav-tabs > li > a:hover {
+  color: #a67c52;
+}
+
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:hover,
+.nav-tabs>li.active>a:focus {
+  color: #555;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-top: solid 3px #a67c52;
+  border-bottom-color: transparent;
+  cursor: default;
+  font-weight: 700;
+}
+
+.tab-content {
+  padding: 27px 22px;
+  margin-bottom: 20px;
+  border-left: solid 1px #ddd;
+  border-right: solid 1px #ddd;
+  border-bottom: solid 1px #ddd;
+}
+
+.tab-content>.tab-pane {
+  display: none;
+}
+
+.tab-content>.active {
+  display: block;
+}
+
+.fade {
+  opacity: 0;
+  -webkit-transition: opacity .15s linear;
+  transition: opacity .15s linear;
+}
+
+
+/****** about us container ******/
+
+.container-about-us {
+  padding: 80px 0 40px 0;
+}

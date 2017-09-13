@@ -1,0 +1,163 @@
+/*=================================================
+ Some CSS to make Responsive elements
+=================================================*/
+
+@media only screen and (max-width: 980px) {
+  .classic-portfolio.col-4-portfolio .project-item,
+  .col-3-portfolio .project-item,
+  .classic-portfolio.col-3-portfolio .project-item,
+  .classic-portfolio.col-2-portfolio .project-item {
+    max-width: 352px;
+    width: 47%;
+    margin: 1.5%;
+    height: auto;
+  }
+  .modern-portfolio .project-item .project-image {
+    margin-bottom: 0;
+  }
+  .col-3-portfolio.gallery-portfolio .project-item,
+  .gallery-4-col-portfolio .project-item,
+  .gallery-5-col-portfolio .project-item {
+    width: 49.9% !important;
+    max-width: 100%;
+    margin: 0 !important;
+  }
+  .classic-portfolio.col-3-portfolio.masonry-portfolio .project-item,
+  .classic-portfolio.col-4-portfolio.masonry-portfolio .project-item {
+    width: 49.99% !important;
+  }
+  .single-blog-post {
+    margin-bottom: 40px;
+  }
+  .share-box span,
+  .share-box .share-box-icons {
+    display: block;
+    text-align: center;
+  }
+  .share-box .share-box-icons {
+    margin-top: 12px;
+    display: block;
+    text-align: center;
+  }
+  .share-box .share-box-icons li {
+    padding: 0 13px;
+  }
+  .single-post-nav {
+    margin-top: 0!important;
+  }
+  .single-post-nav li,
+  .nav-btn li {
+    border-top: none;
+    width: 100% !important;
+  }
+  .single-product-images {}
+  .single-product-des {
+    width: 50%;
+    float: right;
+  }
+  .products li {
+    width: 30%;
+    float: left;
+    margin: 0 1.5% 51px 1.5%;
+  }
+  .products .owl-item li {
+    width: 220px;
+    float: left;
+    margin: 0 15px 51px 15px;
+  }
+  .service-box-sb {
+    margin: 10px 0 30px 0;
+  }
+  .footer-area-container .footer-widget {
+    margin-bottom: 40px;
+  }
+  .footer-area-container .site-footer {
+    text-align: center;
+  }
+  .footer-area-container .site-footer .footer-nav {
+    text-align: center;
+    padding: 0;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .products li {
+    width: 90%;
+    float: left;
+    margin: 0 5% 45px 5%;
+  }
+  .single-product-des,
+  .single-product-images {
+    width: 100%;
+    float: none;
+  }
+  .pagination-cm li {
+    margin: 12px 2px;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  .classic-portfolio.col-4-portfolio .project-item,
+  .col-3-portfolio .project-item,
+  .classic-portfolio.col-3-portfolio .project-item,
+  .classic-portfolio.col-2-portfolio .project-item {
+    max-width: 350px;
+    width: 94%;
+    margin: 3%;
+    height: auto;
+  }
+  .classic-portfolio.col-3-portfolio.masonry-portfolio .project-item,
+  .classic-portfolio.col-4-portfolio.masonry-portfolio .project-item {
+    width: 100% !important;
+  }
+  .masonry-portfolio .project-item {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+  }
+  .shortc-mp {
+    margin-bottom: 30px;
+  }
+  .col-3-portfolio.gallery-portfolio .project-item,
+  .gallery-4-col-portfolio .project-item,
+  .gallery-5-col-portfolio .project-item {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+  }
+  .modern-portfolio .project-item .project-image {
+    margin-bottom: 0;
+  }
+  .port-de-title-1 {
+    margin-top: 30px !important;
+  }
+  .single-product-images,
+  .single-product-des {
+    width: 100%;
+    float: none;
+  }
+  .single-product-des {
+    margin-top: 35px;
+  }
+  .single-product-images .product-images-gallery li {
+    width: 24%;
+    float: left;
+    margin: 0 0.5% 0.5% 0.5%;
+  }
+  .products li {
+    width: 90%;
+    float: left;
+    margin: 0 5% 45px 5%;
+  }
+  .products .owl-item li {
+    width: 360px;
+    float: left;
+    margin: 0 15px 51px 15px;
+  }
+  .home-two-header .main-nav ul.sf-menu li a {
+    padding: 16px 24px;
+  }
+  .home-two-header .mobnav-subarrow {
+    height: 49px;
+  }
+}

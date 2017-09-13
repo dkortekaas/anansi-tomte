@@ -1,0 +1,75 @@
+/*=================================================
+9 - Alert box
+================================================*/
+
+.alert {
+  padding: 21px;
+  border: solid 2px #ddd;
+  font-size: 14px;
+  margin: 0 0 28px 0;
+  &.alert-info {
+    background: #d9edf7;
+    border-color: #bce8f1;
+    .close {
+      background: #bce8f1;
+      color: #d9edf7;
+    }
+  }
+  &.alert-success {
+    background: #dff0d8;
+    border-color: #d6e9c6;
+    &.close {
+      background: #d6e9c6;
+      color: #dff0d8;
+    }
+  }
+  &.alert-warning {
+    background: #fcf8e3;
+    border-color: #faebcc;
+    &.close {
+      background: #faebcc;
+      color: #fcf8e3;
+    }
+  }
+  &.alert-danger {
+    background: #f2dede;
+    border-color: #ebccd1;
+    &.close {
+      background: #ebccd1;
+      color: #f2dede;
+    }
+  }
+  .close {
+    float: right;
+    margin-right: 20px;
+    font-size: 18px;
+    text-align: center;
+    font-family: Helvetica, Arial;
+    font-weight: 400;
+    line-height: 16px;
+    padding: 0;
+    width: 28px;
+    height: 28px;
+    color: #fff;
+    background: #ddd;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    opacity: 0.8;
+  }
+  button {
+    &.close {
+      cursor: pointer;
+      border: 0;
+      -webkit-appearance: none;
+    }
+  }
+  .alert-dismissable {
+    .close {
+      position: relative;
+      top: -2px;
+      right: -21px;
+      color: inherit;
+    }
+  }
+}

@@ -1,0 +1,41 @@
+/*=================================================
+8 - Progress Bar
+=================================================*/
+
+.pb-container {
+  padding: 10px 0 63px 0;
+}
+
+.sq-progress-container {
+  position: relative;
+  margin-bottom: 23px;
+}
+
+.sq-progress-container .sq-progress-label {
+  font-size: 16px;
+  margin-bottom: 7px;
+  display: block;
+  padding-left: 2px;
+}
+
+.sq-progress-container .sq-progress {
+  background: $orange-dark;
+  margin-bottom: 10px;
+  height: 15px;
+}
+
+.sq-progress-container .sq-progress .sq-progress-rate {
+  position: absolute;
+  top: -10px;
+  font-size: 16px;
+  right: 0;
+  padding: 2px 11px;
+  margin-left: -22px;
+}
+
+.sq-progress-container .sq-progress .sq-progress-bar {
+  background: $brown;
+  height: 100%;
+  display: block;
+  width: 50%;
+}

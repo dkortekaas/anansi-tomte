@@ -1,0 +1,45 @@
+p {
+    text-align: justify;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+ul li {
+    overflow: visible;
+    padding-left: 10px;
+}
+
+ul li:before {
+    content: ">";
+    padding: 0 5px 0 0;
+    margin-left: -10px;
+}
+
+
+.orange {
+    color: #D54D1D;
+}
+
+a.button {
+    font-family: Chiller;
+    font-size: 20px;
+    font-weight: 300;
+    color: #F7931E;
+    padding: 5px 15px;
+    background-color: #42210B;
+    margin-bottom: 4px;
+    position: relative;
+    border-radius: 4px;
+    border: none;
+    letter-spacing: 0;
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}

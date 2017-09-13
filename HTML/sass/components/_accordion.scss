@@ -1,0 +1,26 @@
+/*=================================================
+17 - Accordion
+=================================================*/
+
+.accordion {
+  .accordion-panel {
+    margin-bottom: 11px;
+    .accordion-body {
+      padding: 20px 5px 12px 19px;
+    }
+    .accordion-heading {
+      border: solid 1px #dddddd;
+      padding: 9px 15px;
+      -webkit-border-radius: 2px;
+      -moz-border-radius: 2px;
+      border-radius: 2px;
+      .accordion-title {
+        font-size: 13px;
+        color: #505050;
+        a {
+          color: #505050;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,64 @@
+/*=================================================
+27 - footer area
+=================================================*/
+
+.footer-area-container {
+  color: #a2a2a2;
+  word-wrap: break-word;
+  background-color: $orange-dark;
+  padding: 60px 0 60px 0;
+  .footer-widget-title {
+    font-size: 16px;
+    font-weight: bold;
+    color: #cecece;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #444;
+  }
+  .fa {
+    color: #fefefe;
+    margin-right: 6px;
+  }
+  a {
+    color: #a2a2a2;
+    word-wrap: break-word;
+  }
+  .site-footer {
+    margin-top: 30px;
+    padding: 23px 0 15px 0;
+    text-align: center;
+  }
+}
+
+.footer-holder {
+  background: $white;
+  display: table-cell;
+  text-align: center;
+  line-height: 24px;
+  padding-top: 4px;
+  height: 60px;
+  width: 1%;
+  vertical-align: middle;
+  p {
+    margin: 0;
+    letter-spacing: 1px;
+  }
+  .site-footer {
+    .footer-nav {
+      list-style: none;
+      margin: 5px 0 10px 0;
+      padding: 0;
+      li {
+        display: inline-block;
+        padding: 0 20px;
+        font-size: 14px;
+      }
+    }
+  }
+}
+
+.footer-logo {
+  margin: 5px 0 10px 0;
+}

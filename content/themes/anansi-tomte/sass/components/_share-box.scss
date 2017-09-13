@@ -1,0 +1,90 @@
+/*=================================================
+22 -  Share Box
+=================================================*/
+
+.single-post-share-box {
+  margin-top: 48px !important;
+}
+
+.share-box {
+  padding: 14px 20px;
+  border: solid 1px #ddd;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  font-size: 12px;
+  color: #666;
+}
+
+.share-box span,
+.share-box .share-box-icons {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.share-box .share-box-icons {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: right;
+}
+
+.share-box .share-box-icons li {
+  display: inline-block;
+  font-size: 13px;
+  padding: 0 17px;
+}
+
+.share-box .share-box-icons li a {
+  color: #787878;
+}
+
+.share-box .share-box-icons li a:hover {
+  color: #111;
+}
+
+
+/**** Next and per post nav ****/
+
+.single-post-nav {
+  margin-top: 25px !important;
+  margin-bottom: 52px !important;
+}
+
+.single-post-nav li {
+  width: 49% !important;
+}
+
+.single-post-nav li:first-child {
+  margin-right: 1.5% !important;
+}
+
+.nav-btn {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.nav-btn li {
+  display: inline-block;
+  border: solid 1px #ddd;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  width: 176px;
+  height: 51px;
+  text-align: center;
+}
+
+.nav-btn li a {
+  padding: 14px 20px;
+  line-height: 51px;
+  color: #787878;
+}
+
+.nav-btn li a:hover {
+  color: #111;
+}
